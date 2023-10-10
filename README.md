@@ -5,9 +5,9 @@
 <img align='right' src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-size_restricted.gif" width="240" />
 </p>
 
-- 💻 Master's in Software Engineering from **[Arizona State University](https://www.asu.edu/)** , Software Engineer Intern at **[Chartbeat](https://chartbeat.com/)**, 
+- 💻 Graduate student at **[Arizona State University](https://www.asu.edu/)** , Software Engineer Intern at **[Chartbeat](https://chartbeat.com/)**
 - 😄 Pronouns: She/Her
-- ⚙️ Tech: `.js`, `.css`, `.ts`, `.py`
+- ⚙️ Tech: `.js`, `.css`, `.ts` ,`.java`, `.py`
 
 
 <br />
@@ -42,22 +42,21 @@
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" style="padding-right:10px;" />](https://www.python.org)
 
 
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com/)
-
-
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 
 
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com/)
+
+
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26px" style="padding-right:10px;" />](https://www.postgresql.org)
+
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="26px" style="padding-right:10px;"/>](https://www.docker.com)
 
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
-
-
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="26px" style="padding-right:10px;"/>](https://www.docker.com)
 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
