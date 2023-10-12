@@ -67,7 +67,9 @@
 
 ## Know more about me:
 
-https://harshithamaripally.com/
+**[Harshitha Maripally](https://harshithamaripally.com/)** 
+
+
 
 <br/>
 <br/>
