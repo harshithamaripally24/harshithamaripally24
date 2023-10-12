@@ -19,6 +19,7 @@
 <br />
 <br />
 
+
 ## What I use:
 
 
@@ -63,6 +64,13 @@
 
 <br />
 <br />
+
+## Know more about me:
+
+https://harshithamaripally.com/
+
+<br/>
+<br/>
 
 
 [linkedin]: https://www.linkedin.com/in/harshitha-maripally/
