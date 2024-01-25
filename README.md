@@ -5,7 +5,7 @@
 <img align='right' src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-size_restricted.gif" width="240" />
 </p>
 
-- 💻 Graduate student at **[Arizona State University](https://www.asu.edu/)** , Software Engineer Intern at **[Chartbeat](https://chartbeat.com/)**
+- 💻 Master's in Software Engineering from **[Arizona State University](https://www.asu.edu/)** , Software Engineer Intern at **[Chartbeat](https://chartbeat.com/)**
 - 😄 Pronouns: She/Her
 - ⚙️ Tech: `.js`, `.css`, `.ts` ,`.java`, `.py`
 
