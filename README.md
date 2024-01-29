@@ -18,12 +18,10 @@
 [<img align="left" style="padding-right:10px;" alt="Harshitha's LinkedIN" width="28px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 <br />
-<br />
 
 ## Leetcode:
 
 Click here **https://leetcode.com/harshitha2408** 
-
 
 <br />
 <br />
