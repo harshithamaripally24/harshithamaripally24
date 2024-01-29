@@ -21,7 +21,10 @@
 
 ## Leetcode:
 
-Click here **https://leetcode.com/harshitha2408** 
+[<img align="left" style="padding-right:10px;" alt="Harshitha's Leetcode" width="28px" src="https://icons8.com/icons/set/leetcode" />][Leetcode]
+
+
+
 
 <br />
 <br />
