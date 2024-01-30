@@ -21,7 +21,7 @@
 
 ## Leetcode:
 
-[<img align="left" style="padding-right:10px;" alt="Harshitha's Leetcode" width="28px" src="https://icons8.com/icons/set/leetcode" />][Leetcode]
+[<img align="left" style="padding-right:10px;" alt="Harshitha's Leetcode" width="28px" src="https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job"/>][Leetcode]
 
 
 
