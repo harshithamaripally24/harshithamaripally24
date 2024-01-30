@@ -21,11 +21,7 @@
 
 ## Leetcode:
 
-**https://leetcode.com/harshitha2408/**
-
-<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>
-
-
+[<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Harshitha's Leetcode"/>][Leetcode]
 
 <br />
 <br />
@@ -87,6 +83,7 @@ Click here **[Harshitha Maripally](https://harshithamaripally.com/)**
 
 
 [linkedin]: https://www.linkedin.com/in/harshitha-maripally/
+[Leetcode]: https://leetcode.com/harshitha2408/
 
 
 
