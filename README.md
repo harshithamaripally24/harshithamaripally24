@@ -9,7 +9,6 @@
 -  Software Engineer Intern at **[Chartbeat](https://chartbeat.com/)**
 - 😄 Pronouns: She/Her
 - ⚙️ Tech: `.js`, `.css`, `.ts` ,`.java`, `.py`
-  
 <br />
 
 ## Connect with me:
