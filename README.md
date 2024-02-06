@@ -9,8 +9,7 @@
 -  Software Engineer Intern at **[Chartbeat](https://chartbeat.com/)**
 - 😄 Pronouns: She/Her
 - ⚙️ Tech: `.js`, `.css`, `.ts` ,`.java`, `.py`
-
-
+  
 <br />
 
 ## Connect with me:
@@ -22,7 +21,6 @@
 ## Leetcode:
 
 [<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Harshitha's Leetcode"/>][Leetcode]
-
 <br />
 
 ## What I use:
