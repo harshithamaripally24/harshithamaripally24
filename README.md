@@ -69,7 +69,7 @@
 
 ## Know more about me:
 
-Click here **[Harshitha Maripally](https://harshithamaripally.com/)** 
+Click here **[Harshitha Maripally](https://maripallyharshitha.com/)** 
 
 
 
