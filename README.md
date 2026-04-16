@@ -5,8 +5,9 @@
 <img align='right' src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-size_restricted.gif" width="240" />
 </p>
 
+-  Software Engineer at **[Google](https://www.google.com/)**
 - 💻 Master's in Software Engineering from **[Arizona State University](https://www.asu.edu/)** ,
--  Software Engineer at **[Geico](https://www.geico.com/)**
+-  Previously at your favourite Car Insurance company 😉
 - 😄 Pronouns: She/Her
 - ⚙️ Tech: `.js`, `.css`, `.ts` ,`.java`, `.py`
 <br />
